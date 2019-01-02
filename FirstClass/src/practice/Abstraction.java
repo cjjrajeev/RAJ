@@ -13,6 +13,7 @@ public class Abstraction extends Vehicle
       void car()
       {
     	  System.out.println("Car has four wheels");
+	  System.out.println("");
       }
 
 
