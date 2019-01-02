@@ -47,6 +47,6 @@ public class Electrical_Billing
     		  System.out.println(finalamt);
     	  }
     	  
-	  	
+	  	System.out.println("hi");
     	}
 }
